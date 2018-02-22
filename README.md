@@ -13,8 +13,8 @@
 
 ## Prerequisites (Before you start)
 
-* Read [Section 1 Notes]({% link 2018/cv/notes/1_week1.md %}){:target="_blank"}.
-* Read [Section 2 Notes]({% link 2018/cv/notes/2_week2.md %}){:target="_blank"}.
+* Read **Section 1 Notes**.
+* Read **Section 2 Notes**.
 
 ## Deadline
 
