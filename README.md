@@ -22,7 +22,7 @@
 
 ## Part 1: Programming
 
-Your implementations for this part should be included in `Part1.md` of your repository.
+Your implementations for this part should be included in `Part1.py` of your repository.
 
 
 Implement a program that does the following:
