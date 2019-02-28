@@ -3,13 +3,21 @@
 ## Ex. RGB(1,5,6)
 
 I= 1/3(R+G+B) = 4
+
 S = 1-(3/R+G+B)(min(R,G,B)) = 0.75
+
 Theta = cos-1 [0.5[(R-G)+(R-B)] /  [(R-G)2 + (R-B)(G-B)0.5]] = 2.951
+
 If B<=G: 
+
 H = Theta
+
 else B>G:
+
 H= 360-Theta
+
 Therefore:
+
 H = 357.04
 
 ### HSI (357.04,0.75,4)
